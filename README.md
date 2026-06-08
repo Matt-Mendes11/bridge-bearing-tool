@@ -30,8 +30,8 @@ This separation keeps the mathematical logic decoupled from the UI, making the c
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Matt-Mendes11/bridge-bearing-tool.git
+cd bridge-bearing-tool
 ```
 
 ### 2. Install Dependencies
